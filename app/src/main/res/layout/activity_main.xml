@@ -4,8 +4,8 @@
     android:layout_height="match_parent" >
 
     <fragment
-        android:id="@+id/placeFragment"
         android:name="com.sunnyweather.android.ui.place.PlaceFragment"
+        android:id="@+id/placeFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </FrameLayout>

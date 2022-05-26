@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
     <string name="enterPlace">输入地址</string>
+    <string name="分隔符">|</string>
+    <string name="预报">预报</string>
+    <string name="生活指数">生活指数</string>
+    <string name="感冒">感冒</string>
+    <string name="穿衣">穿衣</string>
+    <string name="实时紫外线">实时紫外线</string>
+    <string name="洗车">洗车</string>
 </resources>
